@@ -383,6 +383,9 @@
         }
 
         .tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.6rem;
             background: var(--bg-secondary);
             color: var(--text-secondary);
             padding: 0.5rem 1rem;
@@ -391,6 +394,11 @@
             font-family: 'Anybody', sans-serif;
             border: 1px solid var(--border);
             transition: all 0.3s ease;
+        }
+
+        .tag i {
+            font-size: 1.1rem;
+            color: var(--accent);
         }
 
         .tag:hover {

@@ -1,10 +1,10 @@
-# 🚀 Portfolio - Victor Rodrigo Leite
+# Portfolio
 
 Este repositório contém o código-fonte do meu portfólio profissional, desenvolvido para apresentar minha trajetória como Engenheiro de Automação e Controle e Mestrando em Ciência da Computação, com foco em Análise de Dados, Ciência de Dados e IA.
 
 ---
 
-## 👨‍💻 Sobre o Autor
+## Autor
 
 **Victor Rodrigo Leite**
 - 🎓 **Engenheiro de Automação e Controle** (UFPE)
@@ -44,14 +44,14 @@ O projeto foi construído utilizando tecnologias web fundamentais para garantir 
 
 ---
 
-## 🌐 Como Visualizar
+## Como visualizar?
 
 O portfólio está disponível publicamente via GitHub Pages. Você pode acessá-lo através do link:
 👉 [https://vrodrigoleite.github.io/portifolio/](https://vrodrigoleite.github.io/portifolio/)
 
 ---
 
-## 🏗️ Como Executar Localmente
+## Como executar localmente
 
 Se desejar clonar e rodar o projeto em sua máquina:
 
@@ -67,7 +67,7 @@ Se desejar clonar e rodar o projeto em sua máquina:
 
 ---
 
-## 📬 Contato
+## Contato
 
 - **LinkedIn:** [vrodrigoleite](https://www.linkedin.com/in/vrodrigoleite/)
 - **GitHub:** [vrodrigoleite](https://github.com/vrodrigoleite)
@@ -75,4 +75,4 @@ Se desejar clonar e rodar o projeto em sua máquina:
 
 ---
 
-✨ *Desenvolvido com foco em clareza, performance e design minimalista.*
+
